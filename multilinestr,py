@@ -1,0 +1,3 @@
+a = """hello i am alex
+      studying in 4th standard at s.t stephens school."""
+print(a)
